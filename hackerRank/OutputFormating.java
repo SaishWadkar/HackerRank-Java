@@ -15,7 +15,6 @@ public class OutputFormating {
 
             String spaces = " ".repeat(space);
             String output = s1 + spaces;
-
             System.out.print(output);
             String no = null;
 
