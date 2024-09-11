@@ -21,6 +21,11 @@ public class BasicString {
         }
 
 
+        /*
+        Use == to check if two references point to the same object.
+        Use .equals() to check if two strings have identical content.
+         */
+
         System.out.println(name.equals(name1));
         System.out.println(s1.equals(s2));
 
