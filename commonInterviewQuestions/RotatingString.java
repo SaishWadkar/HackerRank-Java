@@ -3,8 +3,8 @@ package commonInterviewQuestions;
 public class RotatingString {
 
     public static void main(String []args){
-        String s1 = "abcde";
-        String s2 = "cdeab";
+        String s1 = "hello";
+        String s2 = "lohel";
 
         System.out.println("Rotating String : "+checkStringRotation(s1,s2));
 
